@@ -7,7 +7,7 @@ Your mission: Unveil insights, provide shrewd business recommendations to abate 
 
 For this project, I used the following tools:
 
-SQL: To source, clean, and transform data.
-Python: To transform and visualize data, including creating a retention matrix.
-Excel: To visualize and edit the retention matrix, as it provides control over each cell.
+SQL: To source, clean, and transform data;
+Python: To transform and visualize data, including creating a retention matrix;
+Excel: To visualize and edit the retention matrix, as it provides control over each cell;
 Power BI: To create visualizations and further source, clean, and transform data.
