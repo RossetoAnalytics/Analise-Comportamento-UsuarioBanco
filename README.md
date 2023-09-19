@@ -14,3 +14,5 @@ SQL: To source, clean, and transform data;
 Python: To transform and visualize data, including creating a retention matrix;
 Excel: To visualize and edit the retention matrix, as it provides control over each cell;
 Power BI: To create visualizations and further source, clean, and transform data.
+
+https://neo-bank.com/
