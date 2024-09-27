@@ -1,18 +1,15 @@
 # NeobankAnalysis
-Explore the realms of a globally renowned neo-bank, pioneering in eradicating hidden bank charges for cross-currency transactions.
 
-Intriguingly, the neo-bank seeks to fathom the dynamics of user retention and gauge user engagement based on their activities.
+Explore os domínios de Neo-Bank, pioneiro na erradicação de taxas bancárias ocultas para transações em moeda estrangeira.
 
-Your mission: Unveil insights, provide shrewd business recommendations to abate churn rates, and illuminate pathways to heightened user involvement.
+Curiosamente, a Neo-Bank busca entender a dinâmica de retenção de usuários e medir o engajamento com base em suas atividades.
 
-![grid4-3](https://github.com/RossetoAnalytics/NeobankAnalysis/assets/104378621/a90d11c2-f912-4786-8182-aba5d1b4f197)
+Sua missão: Revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e iluminar caminhos para aumentar o envolvimento dos usuários.
 
+Para este projeto, utilizei as seguintes ferramentas:
 
-For this project, I used the following tools:
-
-SQL: To source, clean, and transform data;
-Python: To transform and visualize data, including creating a retention matrix;
-Excel: To visualize and edit the retention matrix, as it provides control over each cell;
-Power BI: To create visualizations and further source, clean, and transform data.
-
+SQL: Para buscar, limpar e transformar dados;
+Python: Para transformar e visualizar dados, incluindo a criação de uma matriz de retenção;
+Excel: Para visualizar e editar a matriz de retenção, oferecendo controle sobre cada célula;
+Power BI: Para criar visualizações e também buscar, limpar e transformar dados.
 https://neo-bank.com/
