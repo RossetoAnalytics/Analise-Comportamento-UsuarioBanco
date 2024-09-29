@@ -13,3 +13,5 @@ Python: Para transformar e visualizar dados, incluindo a criação de uma matriz
 Excel: Para visualizar e editar a matriz de retenção, oferecendo controle sobre cada célula;
 Power BI: Para criar visualizações e também buscar, limpar e transformar dados.
 https://neo-bank.com/
+
+![image](https://github.com/user-attachments/assets/88715359-66ac-45df-a088-f8f461e605fa)
