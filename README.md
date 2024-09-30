@@ -1,4 +1,4 @@
-# NeobankAnalysis
+# Churn Buster: Análise de Engajamento
 
 Projeto focado na exploração dos domínios da Neo-Bank, que é pioneira na erradicação de taxas bancárias ocultas para transações em moeda estrangeira. A Neo-Bank busca compreender a dinâmica de retenção de usuários e medir o engajamento com base em suas atividades.
 
