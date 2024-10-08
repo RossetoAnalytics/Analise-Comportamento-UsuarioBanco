@@ -2,7 +2,7 @@
 
 Projeto focado na exploração dos domínios da Neo-Bank, que é pioneira na erradicação de taxas bancárias ocultas para transações em moeda estrangeira. A Neo-Bank busca compreender a dinâmica de retenção de usuários e medir o engajamento com base em suas atividades.
 
-A missão deste projeto é revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e iluminar caminhos para aumentar o envolvimento dos usuários.
+O objetivo do projeto é revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e aumentar o envolvimento dos usuários.
 
 Para este projeto, utilizei as seguintes ferramentas:
 
